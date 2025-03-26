@@ -1,13 +1,14 @@
-# Discord Quiz Botu
+## Projemin türü:
+> Discord Quiz Botu - Kullanıcılara sorular sorar, doğru cevap verenlere puan verir, yanlış cevap verenlere açıklama sunar.
 
-Bu bot, kullanıcılara sorular sorar, doğru cevaplayanlara puan verir ve yanlış cevaplayanlara açıklamalar yapar.
+## Kullanacağım kütüphaneler:
+- discord.py (Discord botu geliştirmek için)
+- JSON (Kullanıcı puanlarını saklamak için)
 
-## Özellikler
-- Kullanıcılara rastgele sorular sorar
-- Doğru cevaplar için puan verir
-- Yanlış cevaplar için açıklama ve kaynak linki sunar
+## İşe yarayabilecek referanslar:
+- [Discord.py Documentation](https://discordpy.readthedocs.io/) - Discord botları için resmi belge.
+- [Python JSON Documentation](https://docs.python.org/3/library/json.html) - JSON ile veri işlemek için referans.
 
-## Kurulum
-1. `pip install -r requirements.txt` komutunu çalıştırarak gerekli kütüphaneleri yükleyin.
-2. `bot.py` dosyasına kendi Discord bot tokenınızı ekleyin.
-3. `python bot.py` komutuyla botu çalıştırın.
+## Geliştirme sırasında bana yardımcı olabilecek kılavuz kaynaklar:
+- [Discord Bot Yapma Kılavuzu](https://realpython.com/how-to-make-a-discord-bot-python/) - Discord botu yapma hakkında kapsamlı bir rehber.
+- [Python Bot Geliştirme Kılavuzu](https://www.geeksforgeeks.org/python-discord-bot/) - Python ile Discord bot geliştirmeye yönelik açıklamalar.
